@@ -1,6 +1,9 @@
 # AI-Powered-Health-Diagnosis-Assistant
 Project Overview
+
+
 🎯 Goal:
+
 Build a Flask-based AI Health Diagnosis Assistant enhanced with:
 
 Conversational AI via OpenAI API
